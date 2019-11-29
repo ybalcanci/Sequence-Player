@@ -5,9 +5,9 @@ Inspired from [The Slightly Spooky Recamán Sequence - Numberphile](https://www.
 
 ### To compile (You need JDK)
 ```
-javac RecamanSequencePlayer.java RecamanSequence.java
+javac SequencePlayer.java Sequence.java RecamanSequence.java
 ```
 ### To run
 ```
-java RecamanSequencePlayer
+java SequencePlayer
 ```
